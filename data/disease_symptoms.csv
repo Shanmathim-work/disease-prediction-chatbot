@@ -1,0 +1,601 @@
+symptoms,disease
+"I have sneezing, runny nose",Common Cold
+"sneezing, runny nose, sore throat",Common Cold
+"cough, mild fever, mild fever",Common Cold
+"I'm feeling s and runny nose, sore throat",Common Cold
+"sneezing, runny nose, sore throat",Common Cold
+"I have sneezing, runny nose, sore throat",Common Cold
+"sneezing, runny nose, sore throat",Common Cold
+"Symptoms: cough, mild fever",Common Cold
+"I'm feeling s and runny nose, sore throat",Common Cold
+"Symptoms: sneezing, runny nose, sore throat",Common Cold
+"Symptoms: sneezing, runny nose, sore throat, mild fever",Common Cold
+"I'm feeling s and runny nose, sore throat",Common Cold
+"I have cough, mild fever, congestion",Common Cold
+"cough, mild fever, congestion",Common Cold
+"I'm feeling s and runny nose, sore throat",Common Cold
+"I have cough, mild fever, congestion",Common Cold
+"I have cough, mild fever, congestion",Common Cold
+"sneezing, runny nose, sore throat",Common Cold
+"Symptoms: sneezing, runny nose, sore throat",Common Cold
+"I'm feeling s and runny nose, sore throat",Common Cold
+"Symptoms: sneezing, runny nose, sore throat",Common Cold
+"I have cough, mild fever, congestion",Common Cold
+"sneezing, runny nose, sore throat, fatigue",Common Cold
+"I'm feeling s and runny nose, sore throat",Common Cold
+"I'm feeling s and runny nose, sore throat",Common Cold
+"cough, mild fever, congestion",Common Cold
+"Symptoms: sneezing, runny nose, sore throat",Common Cold
+I'm feeling c and mild fever,Common Cold
+"Symptoms: sneezing, runny nose, sore throat",Common Cold
+"I have sneezing, runny nose, sore throat, headache",Common Cold
+"sneezing, runny nose, sore throat",Common Cold
+"Symptoms: cough, mild fever, congestion, headache",Common Cold
+"sneezing, runny nose",Common Cold
+"I have sneezing, runny nose, sore throat",Common Cold
+"I have sneezing, runny nose, sore throat",Common Cold
+"I have cough, mild fever, congestion",Common Cold
+"Symptoms: sneezing, runny nose, sore throat",Common Cold
+"I have cough, mild fever, congestion",Common Cold
+"I have sneezing, runny nose, mild fever",Common Cold
+"I have sneezing, runny nose",Common Cold
+"sneezing, runny nose, sore throat",Common Cold
+"I have sneezing, runny nose, sore throat",Common Cold
+"I'm feeling c and mild fever, congestion",Common Cold
+"Symptoms: sneezing, runny nose",Common Cold
+"cough, mild fever, congestion",Common Cold
+"sneezing, runny nose",Common Cold
+"I have sneezing, runny nose",Common Cold
+"cough, mild fever",Common Cold
+"cough, mild fever, congestion",Common Cold
+"sneezing, runny nose, sore throat",Common Cold
+"I have high fever, body ache, chills, fatigue",Influenza
+"I'm feeling f and cough, headache, sore throat",Influenza
+"Symptoms: high fever, body ache, chills, loss of appetite",Influenza
+"I'm feeling f and cough, headache, sore throat",Influenza
+"high fever, body ache, chills",Influenza
+"I have high fever, body ache, chills, fatigue, loss of appetite",Influenza
+"high fever, body ache, chills, fatigue, mild fever",Influenza
+"high fever, body ache, chills, fatigue",Influenza
+"I'm feeling h and body ache, chills, fatigue, fatigue",Influenza
+"Symptoms: fever, cough, headache, sore throat",Influenza
+"I'm feeling h and body ache, chills, fatigue, headache",Influenza
+"fever, cough, headache, sore throat",Influenza
+"fever, cough, headache, sore throat",Influenza
+"I have high fever, body ache, chills, fatigue",Influenza
+"Symptoms: fever, cough, headache, sore throat",Influenza
+"Symptoms: fever, cough, headache",Influenza
+"high fever, body ache, chills, fatigue",Influenza
+"I have high fever, body ache, chills, fatigue",Influenza
+"Symptoms: fever, cough, headache, sore throat",Influenza
+"I'm feeling h and body ache, chills, fatigue",Influenza
+"fever, cough, headache, sore throat",Influenza
+"I have fever, cough, headache, sore throat, headache",Influenza
+"I'm feeling f and cough, headache",Influenza
+"I have high fever, body ache, chills",Influenza
+"I have high fever, body ache, chills, fatigue",Influenza
+"fever, cough, headache",Influenza
+"fever, cough, headache, sore throat",Influenza
+"I'm feeling f and cough, headache, sore throat",Influenza
+"I have high fever, body ache, chills, fatigue",Influenza
+"I'm feeling h and body ache, chills, fatigue, headache",Influenza
+"high fever, body ache, chills, fatigue",Influenza
+"I have fever, cough, headache, sore throat",Influenza
+"Symptoms: high fever, body ache, chills, fatigue",Influenza
+"I'm feeling h and body ache, chills, fatigue",Influenza
+"Symptoms: fever, cough, headache, sore throat, headache",Influenza
+"Symptoms: fever, cough, headache, sore throat",Influenza
+"I have high fever, body ache, chills",Influenza
+"Symptoms: fever, cough, headache",Influenza
+"fever, cough, headache, sore throat",Influenza
+"fever, cough, headache, sore throat",Influenza
+"I have fever, cough, headache",Influenza
+"Symptoms: fever, cough, headache, sore throat",Influenza
+"Symptoms: fever, cough, headache, sore throat, headache",Influenza
+"I have fever, cough, headache, sore throat",Influenza
+"I have high fever, body ache, chills, fatigue",Influenza
+"Symptoms: fever, cough, headache, sore throat",Influenza
+"Symptoms: fever, cough, headache, sore throat",Influenza
+"I'm feeling f and cough, headache, sore throat",Influenza
+"Symptoms: high fever, body ache, chills, fatigue",Influenza
+"Symptoms: high fever, body ache, chills, fatigue",Influenza
+"I have stomach pain, nausea, vomiting, bloating, fatigue",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"upper abdominal pain, indigestion, loss of appetite, fatigue",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"stomach pain, nausea, vomiting, bloating",Gastritis
+"Symptoms: upper abdominal pain, indigestion",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"Symptoms: upper abdominal pain, indigestion, loss of appetite",Gastritis
+"upper abdominal pain, indigestion, loss of appetite",Gastritis
+"upper abdominal pain, indigestion, loss of appetite",Gastritis
+"I have stomach pain, nausea, vomiting",Gastritis
+"I'm feeling s and nausea, vomiting",Gastritis
+I'm feeling u and indigestion,Gastritis
+"I'm feeling s and nausea, vomiting, bloating",Gastritis
+I'm feeling u and indigestion,Gastritis
+"I have upper abdominal pain, indigestion, loss of appetite",Gastritis
+"upper abdominal pain, indigestion, loss of appetite",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"stomach pain, nausea, vomiting, bloating",Gastritis
+"upper abdominal pain, indigestion, loss of appetite",Gastritis
+"upper abdominal pain, indigestion",Gastritis
+"Symptoms: upper abdominal pain, indigestion, loss of appetite",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"upper abdominal pain, indigestion, loss of appetite",Gastritis
+"upper abdominal pain, indigestion, loss of appetite, fatigue",Gastritis
+"I have stomach pain, nausea, vomiting, mild fever",Gastritis
+"I'm feeling s and nausea, vomiting, bloating, mild fever",Gastritis
+"upper abdominal pain, indigestion, loss of appetite",Gastritis
+"Symptoms: stomach pain, nausea, vomiting, bloating, fatigue",Gastritis
+"upper abdominal pain, indigestion, loss of appetite",Gastritis
+"stomach pain, nausea, vomiting",Gastritis
+"Symptoms: stomach pain, nausea, vomiting, bloating",Gastritis
+"I'm feeling s and nausea, vomiting, bloating",Gastritis
+I'm feeling u and indigestion,Gastritis
+"Symptoms: stomach pain, nausea, vomiting, bloating",Gastritis
+"Symptoms: upper abdominal pain, indigestion, loss of appetite",Gastritis
+"upper abdominal pain, indigestion, loss of appetite",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"Symptoms: upper abdominal pain, indigestion, loss of appetite",Gastritis
+"Symptoms: stomach pain, nausea, vomiting, bloating",Gastritis
+"Symptoms: upper abdominal pain, indigestion, loss of appetite",Gastritis
+"I have stomach pain, nausea, vomiting, bloating",Gastritis
+"I'm feeling u and indigestion, loss of appetite",Gastritis
+"I have upper abdominal pain, indigestion, loss of appetite, headache",Gastritis
+"Symptoms: upper abdominal pain, indigestion, loss of appetite",Gastritis
+"Symptoms: upper abdominal pain, indigestion, loss of appetite",Gastritis
+"Symptoms: upper abdominal pain, indigestion, loss of appetite",Gastritis
+"stomach pain, nausea, vomiting",Gastritis
+"Symptoms: severe headache, nausea, light sensitivity",Migraine
+"Symptoms: throbbing headache, vomiting, sensitivity to sound",Migraine
+"I have severe headache, nausea, light sensitivity, aura",Migraine
+"I have throbbing headache, vomiting, headache",Migraine
+"I'm feeling t and vomiting, headache",Migraine
+"throbbing headache, vomiting, sensitivity to sound",Migraine
+"throbbing headache, vomiting, sensitivity to sound",Migraine
+"throbbing headache, vomiting, sensitivity to sound",Migraine
+"Symptoms: severe headache, nausea, light sensitivity",Migraine
+"I have severe headache, nausea, light sensitivity, aura, loss of appetite",Migraine
+"I'm feeling t and vomiting, sensitivity to sound",Migraine
+"I have throbbing headache, vomiting, sensitivity to sound, fatigue",Migraine
+"I have severe headache, nausea, light sensitivity, aura, mild fever",Migraine
+"I'm feeling s and nausea, light sensitivity",Migraine
+"Symptoms: throbbing headache, vomiting",Migraine
+"Symptoms: throbbing headache, vomiting",Migraine
+"I have severe headache, nausea, light sensitivity, aura",Migraine
+"Symptoms: throbbing headache, vomiting, sensitivity to sound, mild fever",Migraine
+"Symptoms: throbbing headache, vomiting, sensitivity to sound",Migraine
+"I'm feeling t and vomiting, sensitivity to sound",Migraine
+"Symptoms: throbbing headache, vomiting, loss of appetite",Migraine
+"throbbing headache, vomiting",Migraine
+"I have throbbing headache, vomiting, sensitivity to sound",Migraine
+"Symptoms: throbbing headache, vomiting, sensitivity to sound",Migraine
+"I'm feeling s and nausea, light sensitivity, aura",Migraine
+"Symptoms: severe headache, nausea, light sensitivity, aura",Migraine
+"I'm feeling s and nausea, light sensitivity, aura",Migraine
+"throbbing headache, vomiting, sensitivity to sound",Migraine
+"throbbing headache, vomiting",Migraine
+"throbbing headache, vomiting, sensitivity to sound",Migraine
+"Symptoms: throbbing headache, vomiting, sensitivity to sound",Migraine
+"I have throbbing headache, vomiting, sensitivity to sound",Migraine
+"I'm feeling t and vomiting, sensitivity to sound",Migraine
+"I have throbbing headache, vomiting",Migraine
+"severe headache, nausea, light sensitivity, aura, loss of appetite",Migraine
+"I'm feeling s and nausea, light sensitivity, aura",Migraine
+"Symptoms: severe headache, nausea, light sensitivity, aura",Migraine
+"I'm feeling t and vomiting, sensitivity to sound",Migraine
+"I have severe headache, nausea, light sensitivity, aura, mild fever",Migraine
+"I'm feeling s and nausea, light sensitivity, aura",Migraine
+"throbbing headache, vomiting, sensitivity to sound",Migraine
+"I'm feeling t and vomiting, sensitivity to sound",Migraine
+"Symptoms: severe headache, nausea, light sensitivity, aura",Migraine
+"I have throbbing headache, vomiting, sensitivity to sound",Migraine
+"I'm feeling s and nausea, light sensitivity, aura",Migraine
+"I'm feeling s and nausea, light sensitivity, aura",Migraine
+"I have throbbing headache, vomiting, sensitivity to sound",Migraine
+"throbbing headache, vomiting, sensitivity to sound, headache",Migraine
+"throbbing headache, vomiting",Migraine
+"I have severe headache, nausea, light sensitivity, aura",Migraine
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"I'm feeling s and hives, itchy eyes",Allergy
+"I'm feeling s and hives, itchy eyes",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"itching, rash, sneezing, watery eyes",Allergy
+"itching, rash, sneezing, watery eyes",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes, headache",Allergy
+"I have skin rash, hives",Allergy
+"I'm feeling i and rash, sneezing",Allergy
+"I have itching, rash, sneezing, watery eyes",Allergy
+"skin rash, hives, itchy eyes",Allergy
+"I have skin rash, hives, itchy eyes",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"Symptoms: skin rash, hives, itchy eyes",Allergy
+"itching, rash, sneezing, watery eyes",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+I'm feeling s and hives,Allergy
+"skin rash, hives",Allergy
+"I have skin rash, hives, itchy eyes",Allergy
+"Symptoms: skin rash, hives, itchy eyes",Allergy
+"itching, rash, sneezing, watery eyes",Allergy
+"I have skin rash, hives, itchy eyes, headache",Allergy
+"I'm feeling i and rash, sneezing, watery eyes",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"I'm feeling s and hives, itchy eyes",Allergy
+"skin rash, hives, itchy eyes",Allergy
+"I'm feeling s and hives, itchy eyes, mild fever",Allergy
+"Symptoms: skin rash, hives",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"skin rash, hives, itchy eyes",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"I'm feeling i and rash, sneezing, watery eyes",Allergy
+"skin rash, hives, itchy eyes, fatigue",Allergy
+"I have skin rash, hives, itchy eyes, mild fever",Allergy
+"I'm feeling s and hives, itchy eyes",Allergy
+"I'm feeling i and rash, sneezing, watery eyes",Allergy
+"Symptoms: skin rash, hives, itchy eyes",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"itching, rash, sneezing, watery eyes",Allergy
+"skin rash, hives",Allergy
+"I have itching, rash, sneezing, watery eyes",Allergy
+"I have itching, rash, sneezing",Allergy
+"I have itching, rash, sneezing, watery eyes",Allergy
+"I have itching, rash, sneezing, watery eyes",Allergy
+"I have skin rash, hives, itchy eyes, fatigue",Allergy
+"Symptoms: itching, rash, sneezing, watery eyes",Allergy
+"itching, rash, sneezing, loss of appetite",Allergy
+"itching, rash, sneezing, watery eyes",Allergy
+"skin rash, hives, itchy eyes",Allergy
+"urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"Symptoms: urine smell, blood in urine, pain while urinating, headache",Urinary Tract Infection
+"I'm feeling u and blood in urine, pain while urinating",Urinary Tract Infection
+"I have urine smell, blood in urine",Urinary Tract Infection
+"Symptoms: urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"Symptoms: urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"I have urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"urine smell, blood in urine",Urinary Tract Infection
+"I have urine smell, blood in urine",Urinary Tract Infection
+"Symptoms: burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"I'm feeling b and frequent urination, lower abdominal pain",Urinary Tract Infection
+"Symptoms: burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"I'm feeling b and frequent urination, lower abdominal pain",Urinary Tract Infection
+"Symptoms: burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"I'm feeling b and frequent urination, lower abdominal pain",Urinary Tract Infection
+"Symptoms: burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"Symptoms: burning urination, frequent urination",Urinary Tract Infection
+"I have urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"urine smell, blood in urine",Urinary Tract Infection
+"I'm feeling b and frequent urination, lower abdominal pain",Urinary Tract Infection
+"Symptoms: urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"I'm feeling b and frequent urination, lower abdominal pain",Urinary Tract Infection
+"urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"I'm feeling u and blood in urine, pain while urinating",Urinary Tract Infection
+"urine smell, blood in urine",Urinary Tract Infection
+"I have burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"I'm feeling u and blood in urine, pain while urinating, loss of appetite",Urinary Tract Infection
+"I have burning urination, frequent urination",Urinary Tract Infection
+"urine smell, blood in urine",Urinary Tract Infection
+"Symptoms: urine smell, blood in urine",Urinary Tract Infection
+"I'm feeling u and blood in urine, pain while urinating",Urinary Tract Infection
+"I have urine smell, blood in urine, headache",Urinary Tract Infection
+"urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"I'm feeling u and blood in urine, pain while urinating",Urinary Tract Infection
+"Symptoms: burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"I have burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"I have burning urination, frequent urination",Urinary Tract Infection
+"I have burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"I'm feeling u and blood in urine, pain while urinating",Urinary Tract Infection
+"I have urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"Symptoms: urine smell, blood in urine",Urinary Tract Infection
+"urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"Symptoms: urine smell, blood in urine, pain while urinating, headache",Urinary Tract Infection
+"burning urination, frequent urination, lower abdominal pain",Urinary Tract Infection
+"urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"I have urine smell, blood in urine, pain while urinating",Urinary Tract Infection
+"fever, cough with phlegm, difficulty breathing",Pneumonia
+"Symptoms: fever, cough with phlegm",Pneumonia
+"I have high fever, productive cough, chest pain, shortness of breath",Pneumonia
+"I have fever, cough with phlegm, difficulty breathing",Pneumonia
+"I'm feeling f and cough with phlegm, difficulty breathing",Pneumonia
+"fever, cough with phlegm, difficulty breathing, headache",Pneumonia
+"Symptoms: fever, cough with phlegm",Pneumonia
+"I have fever, cough with phlegm, difficulty breathing",Pneumonia
+"Symptoms: fever, cough with phlegm",Pneumonia
+"I'm feeling f and cough with phlegm, difficulty breathing",Pneumonia
+"Symptoms: high fever, productive cough, chest pain, shortness of breath",Pneumonia
+"I have fever, cough with phlegm, difficulty breathing",Pneumonia
+"Symptoms: high fever, productive cough, chest pain, shortness of breath",Pneumonia
+"I have high fever, productive cough, chest pain, shortness of breath",Pneumonia
+"I have fever, cough with phlegm, difficulty breathing",Pneumonia
+"high fever, productive cough, chest pain",Pneumonia
+"I have high fever, productive cough, chest pain, shortness of breath",Pneumonia
+"I have fever, cough with phlegm",Pneumonia
+"I have fever, cough with phlegm",Pneumonia
+"I'm feeling f and cough with phlegm, difficulty breathing",Pneumonia
+"I'm feeling h and productive cough, chest pain, shortness of breath",Pneumonia
+"I'm feeling h and productive cough, chest pain, shortness of breath",Pneumonia
+"I'm feeling f and cough with phlegm, difficulty breathing",Pneumonia
+"I have high fever, productive cough, chest pain, shortness of breath",Pneumonia
+"Symptoms: fever, cough with phlegm",Pneumonia
+"high fever, productive cough, chest pain, shortness of breath",Pneumonia
+I'm feeling f and cough with phlegm,Pneumonia
+"I'm feeling h and productive cough, chest pain, shortness of breath, mild fever",Pneumonia
+"I'm feeling f and cough with phlegm, difficulty breathing",Pneumonia
+"Symptoms: fever, cough with phlegm, difficulty breathing",Pneumonia
+"Symptoms: high fever, productive cough, chest pain",Pneumonia
+"I'm feeling h and productive cough, chest pain",Pneumonia
+"high fever, productive cough, chest pain, shortness of breath",Pneumonia
+"I have high fever, productive cough, chest pain",Pneumonia
+"Symptoms: fever, cough with phlegm",Pneumonia
+"I'm feeling h and productive cough, chest pain",Pneumonia
+"high fever, productive cough, chest pain",Pneumonia
+"high fever, productive cough, chest pain, shortness of breath",Pneumonia
+"fever, cough with phlegm, difficulty breathing",Pneumonia
+"fever, cough with phlegm",Pneumonia
+"Symptoms: fever, cough with phlegm, difficulty breathing, loss of appetite",Pneumonia
+"fever, cough with phlegm, difficulty breathing",Pneumonia
+"fever, cough with phlegm, difficulty breathing",Pneumonia
+"Symptoms: fever, cough with phlegm",Pneumonia
+"I'm feeling h and productive cough, chest pain, shortness of breath",Pneumonia
+"high fever, productive cough, chest pain, shortness of breath, loss of appetite",Pneumonia
+"fever, cough with phlegm, difficulty breathing",Pneumonia
+"I'm feeling f and cough with phlegm, difficulty breathing",Pneumonia
+"Symptoms: fever, cough with phlegm",Pneumonia
+"Symptoms: fever, cough with phlegm, difficulty breathing, headache",Pneumonia
+"I'm feeling s and shortness of breath, sweating, nausea",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"Symptoms: pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"Symptoms: sudden chest pain, shortness of breath, sweating, nausea, mild fever",Heart Attack
+"Symptoms: pressure in chest, pain radiating to arm",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"I'm feeling p and pain radiating to arm, cold sweat, headache",Heart Attack
+"pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"I have sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"I'm feeling s and shortness of breath, sweating",Heart Attack
+"Symptoms: sudden chest pain, shortness of breath, sweating",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"Symptoms: sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"I'm feeling s and shortness of breath, sweating, nausea, mild fever",Heart Attack
+"I'm feeling p and pain radiating to arm, cold sweat, headache",Heart Attack
+"I'm feeling s and shortness of breath, sweating, nausea",Heart Attack
+"I'm feeling s and shortness of breath, sweating",Heart Attack
+"sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"Symptoms: pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat, mild fever",Heart Attack
+"I'm feeling s and shortness of breath, sweating, nausea, headache",Heart Attack
+"I'm feeling s and shortness of breath, sweating, nausea, headache",Heart Attack
+"pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"I'm feeling s and shortness of breath, sweating, nausea",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"I have sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"Symptoms: pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"Symptoms: sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"I have sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"Symptoms: sudden chest pain, shortness of breath, sweating",Heart Attack
+"sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"Symptoms: pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"I'm feeling p and pain radiating to arm, cold sweat",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"Symptoms: pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"Symptoms: sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"pressure in chest, pain radiating to arm",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat, loss of appetite",Heart Attack
+"I'm feeling s and shortness of breath, sweating",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"I have pressure in chest, pain radiating to arm, cold sweat",Heart Attack
+"I'm feeling s and shortness of breath, sweating, nausea",Heart Attack
+"I'm feeling p and pain radiating to arm, cold sweat, loss of appetite",Heart Attack
+"sudden chest pain, shortness of breath, sweating, nausea",Heart Attack
+"I'm feeling p and pain radiating to arm, cold sweat",Heart Attack
+"I'm feeling s and weight loss, excessive hunger",Diabetes
+"I'm feeling i and frequent urination, fatigue, blurred vision",Diabetes
+"Symptoms: slow wound healing, weight loss, mild fever",Diabetes
+"Symptoms: slow wound healing, weight loss",Diabetes
+"Symptoms: increased thirst, frequent urination, fatigue, headache",Diabetes
+"I'm feeling s and weight loss, excessive hunger",Diabetes
+"I'm feeling i and frequent urination, fatigue, headache",Diabetes
+"I have slow wound healing, weight loss",Diabetes
+"I'm feeling s and weight loss, excessive hunger",Diabetes
+"I'm feeling s and weight loss, excessive hunger",Diabetes
+"slow wound healing, weight loss, excessive hunger, headache",Diabetes
+"slow wound healing, weight loss, excessive hunger",Diabetes
+"I have slow wound healing, weight loss, excessive hunger",Diabetes
+"I'm feeling i and frequent urination, fatigue, blurred vision",Diabetes
+"increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"I have increased thirst, frequent urination, fatigue",Diabetes
+"I'm feeling s and weight loss, excessive hunger",Diabetes
+"Symptoms: increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"I have slow wound healing, weight loss, excessive hunger",Diabetes
+"Symptoms: slow wound healing, weight loss, excessive hunger",Diabetes
+"I have slow wound healing, weight loss, excessive hunger",Diabetes
+"Symptoms: slow wound healing, weight loss, excessive hunger",Diabetes
+"I'm feeling s and weight loss, excessive hunger",Diabetes
+"Symptoms: slow wound healing, weight loss, excessive hunger",Diabetes
+I'm feeling s and weight loss,Diabetes
+"I have slow wound healing, weight loss, excessive hunger",Diabetes
+"slow wound healing, weight loss",Diabetes
+"I'm feeling s and weight loss, excessive hunger",Diabetes
+"Symptoms: increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"I have increased thirst, frequent urination, fatigue",Diabetes
+"I have increased thirst, frequent urination, fatigue",Diabetes
+"I'm feeling i and frequent urination, fatigue",Diabetes
+"I'm feeling i and frequent urination, fatigue, blurred vision, mild fever",Diabetes
+"Symptoms: slow wound healing, weight loss, excessive hunger",Diabetes
+"I have slow wound healing, weight loss, excessive hunger, fatigue",Diabetes
+"I have increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"I'm feeling i and frequent urination, fatigue, blurred vision",Diabetes
+"Symptoms: increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"increased thirst, frequent urination, fatigue",Diabetes
+"I'm feeling s and weight loss, excessive hunger",Diabetes
+"I have increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Symptoms: increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Symptoms: increased thirst, frequent urination, fatigue",Diabetes
+"I'm feeling i and frequent urination, fatigue",Diabetes
+"I have slow wound healing, weight loss, excessive hunger, fatigue",Diabetes
+"increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Symptoms: slow wound healing, weight loss, excessive hunger",Diabetes
+"slow wound healing, weight loss, excessive hunger",Diabetes
+"slow wound healing, weight loss, excessive hunger",Diabetes
+"Symptoms: increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Symptoms: headache, dizziness, nosebleed, blurred vision",Hypertension
+"I'm feeling h and dizziness, nosebleed, blurred vision, mild fever",Hypertension
+"I'm feeling c and shortness of breath, fatigue",Hypertension
+"headache, dizziness, nosebleed, blurred vision",Hypertension
+"chest discomfort, shortness of breath, fatigue",Hypertension
+"I have headache, dizziness, nosebleed, blurred vision",Hypertension
+"I'm feeling h and dizziness, nosebleed",Hypertension
+"I'm feeling h and dizziness, nosebleed, blurred vision",Hypertension
+"headache, dizziness, nosebleed, blurred vision",Hypertension
+"chest discomfort, shortness of breath",Hypertension
+"chest discomfort, shortness of breath, fatigue",Hypertension
+"chest discomfort, shortness of breath, fatigue, mild fever",Hypertension
+"headache, dizziness, nosebleed, blurred vision",Hypertension
+"Symptoms: headache, dizziness, nosebleed, blurred vision",Hypertension
+"Symptoms: chest discomfort, shortness of breath, loss of appetite",Hypertension
+"I'm feeling c and shortness of breath, fatigue",Hypertension
+"I have chest discomfort, shortness of breath",Hypertension
+I'm feeling c and shortness of breath,Hypertension
+"headache, dizziness, nosebleed, blurred vision",Hypertension
+"I'm feeling h and dizziness, nosebleed, blurred vision",Hypertension
+"Symptoms: chest discomfort, shortness of breath, fatigue",Hypertension
+"headache, dizziness, nosebleed, blurred vision",Hypertension
+"headache, dizziness, nosebleed, blurred vision",Hypertension
+"I'm feeling h and dizziness, nosebleed, blurred vision, fatigue",Hypertension
+"I have headache, dizziness, nosebleed, blurred vision, loss of appetite",Hypertension
+"I have headache, dizziness, nosebleed, blurred vision",Hypertension
+"Symptoms: chest discomfort, shortness of breath, fatigue",Hypertension
+"I have chest discomfort, shortness of breath, fatigue",Hypertension
+"I'm feeling c and shortness of breath, fatigue, mild fever",Hypertension
+I'm feeling c and shortness of breath,Hypertension
+"Symptoms: chest discomfort, shortness of breath, fatigue",Hypertension
+"I have chest discomfort, shortness of breath",Hypertension
+"I'm feeling h and dizziness, nosebleed, blurred vision",Hypertension
+"I have headache, dizziness, nosebleed, blurred vision",Hypertension
+"chest discomfort, shortness of breath, fatigue",Hypertension
+"chest discomfort, shortness of breath, fatigue, mild fever",Hypertension
+"chest discomfort, shortness of breath, fatigue",Hypertension
+"I have headache, dizziness, nosebleed",Hypertension
+"Symptoms: chest discomfort, shortness of breath, fatigue",Hypertension
+"headache, dizziness, nosebleed, blurred vision",Hypertension
+"I have chest discomfort, shortness of breath, fatigue",Hypertension
+"Symptoms: chest discomfort, shortness of breath, fatigue",Hypertension
+"Symptoms: chest discomfort, shortness of breath, fatigue",Hypertension
+"I'm feeling c and shortness of breath, fatigue",Hypertension
+"Symptoms: headache, dizziness, nosebleed, blurred vision",Hypertension
+"I have headache, dizziness, nosebleed, blurred vision",Hypertension
+"I'm feeling h and dizziness, nosebleed",Hypertension
+I'm feeling c and shortness of breath,Hypertension
+"Symptoms: headache, dizziness, nosebleed, blurred vision",Hypertension
+"I'm feeling c and shortness of breath, fatigue",Hypertension
+"I have cough with phlegm, chest discomfort",Bronchitis
+"persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"persistent cough, mucus, wheezing, shortness of breath, fatigue",Bronchitis
+"cough with phlegm, chest discomfort",Bronchitis
+"Symptoms: persistent cough, mucus, wheezing",Bronchitis
+"I'm feeling p and mucus, wheezing, shortness of breath",Bronchitis
+I'm feeling c and chest discomfort,Bronchitis
+"Symptoms: persistent cough, mucus, wheezing",Bronchitis
+"I'm feeling p and mucus, wheezing, shortness of breath",Bronchitis
+"I have persistent cough, mucus, wheezing, mild fever",Bronchitis
+"Symptoms: persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"I'm feeling c and chest discomfort, tiredness, loss of appetite",Bronchitis
+"persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"I'm feeling p and mucus, wheezing",Bronchitis
+"persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"Symptoms: cough with phlegm, chest discomfort, tiredness",Bronchitis
+"I have persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"I'm feeling p and mucus, wheezing, shortness of breath",Bronchitis
+"cough with phlegm, chest discomfort, headache",Bronchitis
+"I have persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"I'm feeling p and mucus, wheezing, shortness of breath",Bronchitis
+"I'm feeling p and mucus, wheezing, shortness of breath",Bronchitis
+"cough with phlegm, chest discomfort, tiredness",Bronchitis
+"cough with phlegm, chest discomfort",Bronchitis
+"I'm feeling c and chest discomfort, tiredness",Bronchitis
+I'm feeling c and chest discomfort,Bronchitis
+"I'm feeling c and chest discomfort, tiredness",Bronchitis
+I'm feeling c and chest discomfort,Bronchitis
+"I have persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"I have persistent cough, mucus, wheezing",Bronchitis
+"Symptoms: cough with phlegm, chest discomfort, tiredness, fatigue",Bronchitis
+"I have cough with phlegm, chest discomfort, tiredness",Bronchitis
+"I'm feeling p and mucus, wheezing",Bronchitis
+"persistent cough, mucus, wheezing",Bronchitis
+"I'm feeling c and chest discomfort, tiredness, loss of appetite",Bronchitis
+"I have persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"Symptoms: persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"I'm feeling c and chest discomfort, tiredness, mild fever",Bronchitis
+"cough with phlegm, chest discomfort, tiredness",Bronchitis
+"I'm feeling c and chest discomfort, tiredness",Bronchitis
+"I'm feeling p and mucus, wheezing, shortness of breath, fatigue",Bronchitis
+"Symptoms: cough with phlegm, chest discomfort, tiredness",Bronchitis
+"I have cough with phlegm, chest discomfort, tiredness",Bronchitis
+"I have cough with phlegm, chest discomfort, tiredness",Bronchitis
+"Symptoms: cough with phlegm, chest discomfort, tiredness",Bronchitis
+"I have cough with phlegm, chest discomfort, tiredness",Bronchitis
+"I'm feeling c and chest discomfort, tiredness",Bronchitis
+"I have cough with phlegm, chest discomfort",Bronchitis
+"I have persistent cough, mucus, wheezing, shortness of breath",Bronchitis
+"cough with phlegm, chest discomfort, tiredness",Bronchitis
+"I have abdominal pain after meals, bloating, loss of appetite, headache",Stomach Ulcer
+"I'm feeling a and bloating, loss of appetite",Stomach Ulcer
+"I'm feeling b and heartburn, nausea, vomiting blood",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"Symptoms: burning stomach pain, heartburn, nausea",Stomach Ulcer
+"Symptoms: burning stomach pain, heartburn, nausea, vomiting blood, loss of appetite",Stomach Ulcer
+"I have abdominal pain after meals, bloating, mild fever",Stomach Ulcer
+"I have abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite, mild fever",Stomach Ulcer
+"I'm feeling a and bloating, loss of appetite",Stomach Ulcer
+"I'm feeling a and bloating, loss of appetite",Stomach Ulcer
+"abdominal pain after meals, bloating, fatigue",Stomach Ulcer
+"I have abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"Symptoms: burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"I'm feeling a and bloating, loss of appetite",Stomach Ulcer
+"I'm feeling b and heartburn, nausea",Stomach Ulcer
+"I'm feeling b and heartburn, nausea, vomiting blood",Stomach Ulcer
+"I have abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"Symptoms: burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"I have burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"I have abdominal pain after meals, bloating",Stomach Ulcer
+"I'm feeling a and bloating, loss of appetite, loss of appetite",Stomach Ulcer
+"I have burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"I'm feeling b and heartburn, nausea, vomiting blood, headache",Stomach Ulcer
+"I'm feeling b and heartburn, nausea, vomiting blood",Stomach Ulcer
+"I'm feeling b and heartburn, nausea",Stomach Ulcer
+"I'm feeling a and bloating, loss of appetite",Stomach Ulcer
+"I have abdominal pain after meals, bloating",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating",Stomach Ulcer
+"I'm feeling b and heartburn, nausea, vomiting blood",Stomach Ulcer
+"Symptoms: burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"I have burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"I have abdominal pain after meals, bloating",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite, headache",Stomach Ulcer
+"I have burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"Symptoms: burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"I have abdominal pain after meals, bloating, mild fever",Stomach Ulcer
+"I have burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"I'm feeling b and heartburn, nausea",Stomach Ulcer
+"I have burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"I have burning stomach pain, heartburn, nausea, vomiting blood",Stomach Ulcer
+"Symptoms: abdominal pain after meals, bloating, loss of appetite",Stomach Ulcer
+"I'm feeling a and bloating, loss of appetite, fatigue",Stomach Ulcer
+"I'm feeling a and bloating, loss of appetite",Stomach Ulcer
